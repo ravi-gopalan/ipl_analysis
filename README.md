@@ -9,13 +9,15 @@
 ### Batting performances were analyzed to identify
 1. The top 10 run-makers were identified
 2. Features such as Batting Strike Rates, Batting Economy Rates
+3. [Who is the most valuable batsman in the IPL?](https://medium.com/@ravi_gopalan/is-ms-dhoni-the-most-valuable-batsman-in-the-ipl-the-richest-cricket-franchise-in-the-world-4772ab5ee75a)
 3. Batsmen were analyzed along multiple parameters
 4. Batting performances were then analyzed over other time periods such as the last 3 years and only 2019 to identify top batsmen
 ## Analysis of Bowling Performances
 1. The top 10 wicket-takers were identified
 2. Features such as Bowling Strike Rates, Bowling Economy Rates
 3. Bowlers were analyzed along multiple parameters
-4. Bowling performances were then analyzed over other time periods such as the last 3 years and only 2019 to identify top batsmen
+4. [Is Malinga the best bowler in the IPL?](https://medium.com/@ravi_gopalan/is-slinga-malinga-the-best-ever-bowler-in-the-ipl-11f4fba63403) 
+5. Bowling performances were then analyzed over other time periods such as the last 3 years and only 2019 to identify top batsmen
 ## Analysis of Fielding Performances
 1. Similarly players with the most catches, stumpings and run-outs were then idenified
 ## Build a model to predict a winner in a match
