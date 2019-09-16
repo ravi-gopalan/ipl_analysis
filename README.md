@@ -11,7 +11,7 @@ IPL is a treasure trove of cricket data and hence analyzing IPL results could we
 IPL Data in Kaggle was available only till 2017. I then looked at Cricsheet and got a zip file for all 12 years. Data however was in the YAML format.
 Google Colab was used for GPU and Kaggle API was used to download data from within Colab. 
 There are 3 files in the Github repo
-1. `Readme.md` (this file)
+1. `README.md` (this file)
 2. `ipl_yaml_data_processing.ipynb` - a file that is used to convert the raw YAML data files into 2 `csv` files providing summary and detailed information
 3. `ipl_analysis.ipynb` - this file processes he 2 csv files provided into meaningful data, analysis, insights and a predictive model
 
