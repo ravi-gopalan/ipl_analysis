@@ -1,10 +1,24 @@
 # Analysis of data from the Indian Premier League (20/20 Cricket tournament)
-## Data downloaded from cricsheet.org as YAML files
+## The objective was to look at data from the Indian Premier League, analyze the data and come up with the following:
+1. Top Batsmen and their performance metrics
+2. Top Bowlers and their performance metrics
+3. Build a model to predict the winner of an IPL match
+
+## Understanding IPL T20 and Cricket performances
+IPL is a treasure trove of cricket data and hence analyzing IPL results could well prove to be interesting. Its played in the exciting 20–20 format. The 12th edition of IPL completed on May 12 with the Mumbai Indians winning an easy win.
+
+## Understanding Data
+IPL Data in Kaggle was available only till 2017. I then looked at Cricsheet and got a zip file for all 12 years. Data however was in the YAML format.
+
+### Data was downloaded from cricsheet.org as YAML files
 * 756 YAML files were processed - one for each IPL match
-## YAML files were wrangled and processed into pandas csv
+### YAML files were wrangled and processed into pandas csv
 * 2 csv files were created
 1. one that showed match summaries i.e. who played, who won, venue etc.
 2. one with details - for each delivery, who was the bowler, batsman, how many runs were scored etc.
+
+## Preparation of Data
+
 ## Analysis of Batting Performances
 ### Batting performances were analyzed to identify
 1. The top 10 run-makers were identified
