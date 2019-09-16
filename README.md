@@ -58,6 +58,8 @@ Various features were created to enrich the raw data such as
 3. Could we break up an inning to see the performance by each quarter?
 4. How many deliveries that couldn' be scored off could be another parameter 
 ### These were then identified
+There were no categorical variables that were defined as part of the model. Any missing values were imputed through SimpleImputer.
+
 ### To determine the best model the following steps were used
 1. 7 different classifiers were tested:
 * *Logistic Regression*
